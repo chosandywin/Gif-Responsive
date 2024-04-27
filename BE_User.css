@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Baskervville:ital@0;1&family=Homemade+Apple&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mr+Bedfort&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Baskervville:ital@0;1&family=Homemade+Apple&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mr+Bedfort&family=Mr+De+Haviland&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Baskervville:ital@0;1&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+.body {
+    background: #F1F1F1;
+    font-family: "Roboto Flex";
+    margin:5rem 1rem 5rem 1rem;
+  }
+
+.sandy {
+    color: #000;
+    font-family: Mr Bedfort;
+    /*Mr De Haviland*/
+    font-size: 3rem;
+    font-weight: 600;
+  }
+  
+  .animate__animated .animate__fadeInDown {
+    --animate-duration: 640s;
+  
+  }
+  
+  .job-position {
+    color: var(--Blue, #0077ED);
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .title-lg {
+    color: var(--700, #231F20);
+    font-size: 2.5rem;
+    font-weight: 200;
+    letter-spacing: 0.1px;
+    margin: 5rem 0 2.5rem 0;
+  }
+
+  p {
+    color: var(--700, #231F20);
+    font-size: 1.125rem;
+    font-weight: 300;
+    line-height: 2.125rem;
+    margin: 0;
+  }
+
+  .mockup-bg {
+    /* height: auto; */
+    /* height: 640px; */
+    /* width: 906px; */
+    border-radius: 1rem;
+    background: #ADB8B7;
+  }
+
+  .mockup-bg .prototype-img{
+    /* margin:60px 0 60px 0;
+    max-width: 248px;
+    max-height: 496px; */
+  }
+
+  .screens img{
+    width: 100%;
+    height: auto;
+  }
+
+  .palettes img{
+    width: 100%;
+    height: auto;
+  }
+
+.title-md {
+    color: var(--900, #000);
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 2.125rem;
+    padding-bottom: 0.5rem;
+  }
+
+
+  .palettes img {
+    box-shadow: 0rem 0.125rem 0.313rem 0rem rgba(108, 108, 108, 0.25);
+    border-radius: 0.5rem;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .title-sm {
+    color: #000000;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 2.125rem;
+  }
+  
+
+/* ---Contact--- */
+.contact {
+    margin-top: 3rem;
+    font-size: 1.25rem;
+  }
+  
+  .findme {
+    color: var(--700, #231F20);
+    font-weight: 300;
+    padding-right: 8px;
+  }
+  
+  .contact .social {
+    color: #0077ED;
+    font-weight: 500;
+    text-decoration: underline;
+  }
